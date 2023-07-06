@@ -4,9 +4,9 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 import pandas as pd
 
-token = '6294662417:AAGod-P17bTNJya4UuOAqOag2VyHAs4Fh54'
+token = 'your_token'
 
-ADMIN = ['344150886',]
+ADMIN = ['admin_id',]
 tech_chat = '-961118755'
 
 
